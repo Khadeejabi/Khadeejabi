@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Khadeejabi
-- 👀 I’m interested in Data science
+- 👀 I’m interested in Programming and Data science
 - 🌱 I’m currently learning HTML, CSS and Javascript
 - 💞️ I’m looking to collaborate on my learning process and projects as well
 - 📫 How to reach me "waleedmuavia872@gmail.com"
